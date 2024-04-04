@@ -10,6 +10,6 @@ In order to run the code, download the latest version of [Sage](https://www.sage
 ```
 sage l2-spread.py
 ```
-Alternatively, paste the contents of [l2-spread.py](,/l2-spread.py) in the [Sage Cell Server](https://sagecell.sagemath.org/)
+Alternatively, paste the contents of [l2-spread.py](,/l2-spread.py) in the [Sage Cell Server](https://sagecell.sagemath.org/).
 
 The output `G is not 3-colorable with r = 1.304.` implies that the spread condition holds for this particular value of **r**, which is precisely the result used in the paper.
